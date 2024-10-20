@@ -1,7 +1,7 @@
 name: 俞景仪个人网站  YU Jingyi personal website
 url: https://xiaohang007.github.io/
 
-exclude: [bibble, README.md, Makefile, screenshot.png]
+#exclude: [bibble, README.md, Makefile, screenshot.png]
 
 # colorize code snippets with the pygments module
 highlighter: pygments
