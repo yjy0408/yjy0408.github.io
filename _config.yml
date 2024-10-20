@@ -34,9 +34,9 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: 让我看看 Home
+  - title: 让我看看 Let me see see
     link: /
-  - title: 科研项目 Research
+  - title: 个人兴趣 Personal Interest
     link: /research.html
-  - title: 论文 Publications
+  - title: 爱好 Hobbies
     link: /publications.html
